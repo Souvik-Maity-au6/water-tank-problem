@@ -1,1 +1,1 @@
-[problem statement](<https://github.com/Souvik-Maity-au6/water-tank-problem/blob/master/Water%20Tank%20Problem%20(1)%20(1).pdf>)
+<a href="./Water Tank Problem (1) (1).pdf" class="image fit"><img src="./problem_stetment.png" alt=""></a>
